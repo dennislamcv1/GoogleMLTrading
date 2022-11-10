@@ -1,2 +1,9 @@
 # GoogleMLTrading
-Machine Learning for Trading Specialization
+## Machine Learning for Trading Specialization
+### About this Specialization
+
+
+This 3-course Specialization from Google Cloud and New York Institute of Finance (NYIF) is for finance professionals, including but not limited to hedge fund traders, analysts, day traders, those involved in investment management or portfolio management, and anyone interested in gaining greater knowledge of how to construct effective trading strategies using Machine Learning (ML) and Python. Alternatively, this program can be for Machine Learning professionals who seek to apply their craft to quantitative trading strategies.  By the end of the Specialization, you'll understand how to use the capabilities of Google Cloud to develop and deploy serverless, scalable, deep learning, and reinforcement learning models to create trading strategies that can update and train themselves. As a challenge, you're invited to apply the concepts of Reinforcement Learning to use cases in Trading.  This program is intended for those who have an understanding of the foundations of Machine Learning at an intermediate level. To successfully complete the exercises within the program, you should have advanced competency in Python programming and familiarity with pertinent libraries for Machine Learning, such as Scikit-Learn, StatsModels, and Pandas; a solid background in ML and statistics (including regression, classification, and basic statistical concepts) and basic knowledge of financial markets (equities, bonds, derivatives, market structure, and hedging). Experience with SQL is recommended.
+### Applied Learning Project
+
+The three courses will show you how to create various quantitative and algorithmic trading strategies using Python. By the end of the specialization, you will be able to create and enhance quantitative trading strategies with machine learning that you can train, test, and implement in capital markets. You will also learn how to use deep learning and reinforcement learning strategies to create algorithms that can update and train themselves.
